@@ -5,9 +5,7 @@
 - 👯 I’m looking for Data Analytics and Entry roles (Internship, Freelancing and Remote roles)
 💬 Let's discuss data
 - 📫 How to reach me:
-      Email: omoyeleoluwatoyin@yahoo.com
-  
-      Linkedin: https://www.linkedin.com/in/janet-omoyele-4a074b32b
+      [Email](omoyeleoluwatoyin@yahoo.com) and [Linkedin](https://www.linkedin.com/in/janet-omoyele-4a074b32b)
 
 <!---
 JANET-TECH626/JANET-TECH626 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
